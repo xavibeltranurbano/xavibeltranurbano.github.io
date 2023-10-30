@@ -7,6 +7,7 @@
     <list default="true" id="8f9322eb-237e-4aa8-bf3c-d80adc2bdddc" name="Changes" comment="file added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publications.html" beforeDir="false" afterPath="$PROJECT_DIR$/publications.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +97,7 @@
       <updated>1697825599098</updated>
       <workItem from="1698099152932" duration="334000" />
       <workItem from="1698444302173" duration="1720000" />
-      <workItem from="1698652486058" duration="2108000" />
+      <workItem from="1698652486058" duration="2310000" />
     </task>
     <task id="LOCAL-00001" summary="xavi website">
       <option name="closed" value="true" />
@@ -306,7 +307,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698661351320</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="file added">
+      <option name="closed" value="true" />
+      <created>1698663536352</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1698663536352</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
