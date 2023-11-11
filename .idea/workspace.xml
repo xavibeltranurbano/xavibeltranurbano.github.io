@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f9322eb-237e-4aa8-bf3c-d80adc2bdddc" name="Changes" comment="file added">
-      <change afterPath="$PROJECT_DIR$/assets/images/ProbAtlas.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/pdfs/AtlasReport_BeltranAndHartmann.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/isic2020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/isic2020_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/results.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/pdfs/CAD_Presentation.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
     </list>
@@ -104,6 +106,8 @@
       <workItem from="1699316325436" duration="903000" />
       <workItem from="1699376753071" duration="289000" />
       <workItem from="1699727706409" duration="644000" />
+      <workItem from="1699728751851" duration="970000" />
+      <workItem from="1699730085285" duration="1230000" />
     </task>
     <task id="LOCAL-00001" summary="xavi website">
       <option name="closed" value="true" />
@@ -369,7 +373,23 @@
       <option name="project" value="LOCAL" />
       <updated>1699376780553</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="file added">
+      <option name="closed" value="true" />
+      <created>1699728770555</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1699728770555</updated>
+    </task>
+    <task id="LOCAL-00035" summary="file added">
+      <option name="closed" value="true" />
+      <created>1699729081180</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1699729081180</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
