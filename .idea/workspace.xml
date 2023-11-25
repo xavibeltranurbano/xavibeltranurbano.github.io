@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f9322eb-237e-4aa8-bf3c-d80adc2bdddc" name="Changes" comment="file added">
+    <list default="true" id="8f9322eb-237e-4aa8-bf3c-d80adc2bdddc" name="Changes" comment="file updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,6 +110,8 @@
       <workItem from="1699901763865" duration="52000" />
       <workItem from="1700254659513" duration="118000" />
       <workItem from="1700342587488" duration="477000" />
+      <workItem from="1700583091672" duration="1099000" />
+      <workItem from="1700953293994" duration="536000" />
     </task>
     <task id="LOCAL-00001" summary="xavi website">
       <option name="closed" value="true" />
@@ -462,7 +465,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700342599711</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="file updated">
+      <option name="closed" value="true" />
+      <created>1700583167330</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1700583167330</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -483,6 +494,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="xavi website" />
     <MESSAGE value="file added" />
-    <option name="LAST_COMMIT_MESSAGE" value="file added" />
+    <MESSAGE value="file updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="file updated" />
   </component>
 </project>
