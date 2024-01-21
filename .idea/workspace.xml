@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f9322eb-237e-4aa8-bf3c-d80adc2bdddc" name="Changes" comment="file updated" />
+    <list default="true" id="8f9322eb-237e-4aa8-bf3c-d80adc2bdddc" name="Changes" comment="file updated">
+      <change afterPath="$PROJECT_DIR$/assets/images/Block_Diagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/CAD_DL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/FinalProject_MIRA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/FinalProject_MISA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/pdfs/Automatic_Ecography_Poster.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/pdfs/CAD_DL_Presentation.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/pdfs/MIRA_FINAL_PROJECT.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/pdfs/MISA_FINAL_PROJECT.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/pdfs/User_Manual_Robotics.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/awards.html" beforeDir="false" afterPath="$PROJECT_DIR$/awards.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publications.html" beforeDir="false" afterPath="$PROJECT_DIR$/publications.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,14 +128,11 @@
       <workItem from="1700994532295" duration="30000" />
       <workItem from="1701017764142" duration="544000" />
       <workItem from="1701097853326" duration="1129000" />
-    </task>
-    <task id="LOCAL-00003" summary="xavi website">
-      <option name="closed" value="true" />
-      <created>1697846043071</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1697846043071</updated>
+      <workItem from="1701292064469" duration="355000" />
+      <workItem from="1705684190861" duration="6936000" />
+      <workItem from="1705835178529" duration="659000" />
+      <workItem from="1705857834862" duration="1317000" />
+      <workItem from="1705865480125" duration="1264000" />
     </task>
     <task id="LOCAL-00004" summary="xavi website">
       <option name="closed" value="true" />
@@ -507,7 +518,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701100118350</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="file updated">
+      <option name="closed" value="true" />
+      <created>1701292131981</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1701292131982</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
