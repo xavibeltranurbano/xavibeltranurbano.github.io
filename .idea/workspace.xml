@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f9322eb-237e-4aa8-bf3c-d80adc2bdddc" name="Changes" comment="file updated">
-      <change afterPath="$PROJECT_DIR$/assets/images/Block_Diagram.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/CAD_DL.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/FinalProject_MIRA.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/FinalProject_MISA.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/pdfs/Automatic_Ecography_Poster.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/pdfs/CAD_DL_Presentation.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/pdfs/MIRA_FINAL_PROJECT.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/pdfs/MISA_FINAL_PROJECT.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/pdfs/User_Manual_Robotics.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/awards.html" beforeDir="false" afterPath="$PROJECT_DIR$/awards.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publications.html" beforeDir="false" afterPath="$PROJECT_DIR$/publications.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,14 +123,7 @@
       <workItem from="1705835178529" duration="659000" />
       <workItem from="1705857834862" duration="1317000" />
       <workItem from="1705865480125" duration="1264000" />
-    </task>
-    <task id="LOCAL-00004" summary="xavi website">
-      <option name="closed" value="true" />
-      <created>1697846841171</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1697846841171</updated>
+      <workItem from="1705875292479" duration="866000" />
     </task>
     <task id="LOCAL-00005" summary="xavi website">
       <option name="closed" value="true" />
@@ -526,7 +509,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701292131982</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="file updated">
+      <option name="closed" value="true" />
+      <created>1705875491784</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1705875491784</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
