@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f9322eb-237e-4aa8-bf3c-d80adc2bdddc" name="Changes" comment="info updated">
-      <change beforePath="$PROJECT_DIR$/awards.html" beforeDir="false" afterPath="$PROJECT_DIR$/awards.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publications.html" beforeDir="false" afterPath="$PROJECT_DIR$/publications.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,23 +133,7 @@
       <workItem from="1710947412590" duration="908000" />
       <workItem from="1720783264796" duration="315000" />
       <workItem from="1737594471789" duration="211000" />
-      <workItem from="1737744321665" duration="1225000" />
-    </task>
-    <task id="LOCAL-00008" summary="xavi website">
-      <option name="closed" value="true" />
-      <created>1697927061801</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1697927061802</updated>
-    </task>
-    <task id="LOCAL-00009" summary="xavi website">
-      <option name="closed" value="true" />
-      <created>1697930329547</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1697930329547</updated>
+      <workItem from="1737744321665" duration="1551000" />
     </task>
     <task id="LOCAL-00010" summary="xavi website">
       <option name="closed" value="true" />
@@ -531,7 +511,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737745246979</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="info updated">
+      <option name="closed" value="true" />
+      <created>1737745565094</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1737745565094</updated>
+    </task>
+    <task id="LOCAL-00058" summary="info updated">
+      <option name="closed" value="true" />
+      <created>1737745850751</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1737745850751</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
